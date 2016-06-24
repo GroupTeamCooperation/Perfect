@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    //完美软件需要我们共同努力
+    
 }
 
 - (void)didReceiveMemoryWarning {
